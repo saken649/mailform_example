@@ -1,0 +1,22 @@
+td {
+    padding: 0 5px 0;
+}
+.label {
+    text-align: right;
+}
+.area {
+    width: 250px;
+}
+.error {
+    color: red;
+}
+.error_input {
+    border-color: red;
+}
+.confirm {
+    border: solid 1px;
+}
+
+.confirm td {
+    border: solid 1px;
+}
